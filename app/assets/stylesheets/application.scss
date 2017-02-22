@@ -1,0 +1,28 @@
+/*
+*= require material_icons
+ */
+
+@import 'materialize';
+
+#nav {
+  background-color: #3498db;
+}
+
+.card {
+  height: 175px;
+  border-radius: 15px;
+  background-color: #3498db;
+}
+
+.btn {
+  border-radius: 10px;
+  background-color: grey;
+}
+
+#add:hover {
+  background-color: #3498db;
+}
+
+#delete:hover {
+  background-color: #dc6460;
+}
